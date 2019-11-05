@@ -1,0 +1,14 @@
+div.leftSpace {
+    position: relative;
+    width: 900px;
+    height: 400px;
+    float: left;
+}
+
+#carouselExampleIndicators {
+    position: relative;
+    width: 500px;
+    /* float:left; */
+    top: 85px;
+    left: 150px;
+}
